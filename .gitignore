@@ -1,0 +1,8 @@
+# Eclipse specifics
+.classpath
+.project
+.settings/
+target/
+
+# Not needed files
+AirQuality.json

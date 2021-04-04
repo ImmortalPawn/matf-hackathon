@@ -1,0 +1,1 @@
+{"vreme": 21, "temperatura": 11, "vlaznost": 82, "pritisak": 1012.2, "brzina": 10.8, "oblacnost": 82, "dan u nedelji": 3, "mesec": 10}
